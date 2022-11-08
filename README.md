@@ -2,10 +2,10 @@
 <h1 align="center">Analytics for Hospitals Health-Care Data</h1>
 <h3 align="left">Team Members:</h3>
 <ul>
-<li>Subramanyam Ayyar</li>
-<li>Anirudh NK</li>
-<li>Niyas N</li>
-<li>Vishnunathan R</li>
+<li><a href="https://github.com/SubramanyamAyyar"style="text-decoration: none;color:#000">Subramanyam Ayyar</a></li>
+<li><a href="https://github.com/AnirudhMoopan"style="text-decoration: none;color:">Anirudh NK</a></li>
+<li><a href="https://github.com/Niyas891"style="text-decoration: none;color:#000">Niyas N</a></li>
+<li><a href="https://github.com/VishnunathanR"style="text-decoration: none;color:#000">Vishnunathan R</a></li>
 </ul>
 <h3 align="left">Preview:</h3>
 <p align="left">
