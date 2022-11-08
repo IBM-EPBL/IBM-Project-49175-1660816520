@@ -1,5 +1,12 @@
 [![MasterHead](https://www.healthcareitnews.com/sites/hitn/files/TEKsystems-Blog-Image-1200x672.jpg)]()
 <h1 align="center">Analytics for Hospitals Health-Care Data</h1>
+<h3 align="left">Team Members:</h3>
+<ul>
+<li>Subramanyam Ayyar</li>
+<li>Anirudh NK</li>
+<li>Niyas N</li>
+<li>Vishnunathan R</li>
+</ul>
 <h3 align="left">Preview:</h3>
 <p align="left">
 <p>Recent Covid-19 Pandemic has raised alarms over one of the most overlooked areas to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
